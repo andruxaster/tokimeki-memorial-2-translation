@@ -1,0 +1,436 @@
+# Russian -> English UI strings (TM2_LANG=en)
+Асо	Aso
+АБВ	ABC
+КАНДЗИ	KANJI
+абв	abc
+НАЗАД	BACK
+ЗНАКИ	SYMBOL
+ГОТОВО	DONE
+СОЗДАТЬ ЗАНОВО	RECREATE
+СИСТЕМНЫЙ ФАЙЛ	SYSTEM FILE
+НОВАЯ	NEW
+ЗАГРУЗКА	LOAD
+КОПИЯ	COPY
+УДАЛИТЬ	DELETE
+ЗАПИСЬ	SAVE
+Вс	Su
+Пн	Mo
+Вт	Tu
+Ср	We
+Чт	Th
+Пт	Fr
+Сб	Sa
+Вариант 1: R1   Вариант 2: R2\nВариант 3: L1   Вариант 4: L2	Pattern 1: R1   Pattern 2: R2\nPattern 3: L1   Pattern 4: L2
+Вариант 1: R1   Вариант 2: R2\nВариант 3: L1	Pattern 1: R1   Pattern 2: R2\nPattern 3: L1
+Вариант 1: R1   Вариант 2: R2	Pattern 1: R1   Pattern 2: R2
+Касуми	Kasumi
+Хикари	Hikari
+Фам.	Last
+Имя	Name
+Продолжить игру?\nДа - ^5○^7   Нет - ^3×	Continue the game?\nYes - ^5○^7   No - ^3×
+Без карты памяти сохранить нельзя.\nПродолжить?   Да - ^5○^7   Нет - ^3×	No memory card - can't save.\nIs that OK?   Yes - ^5○^7   No - ^3×
+Карта не отформатирована.\nФорматировать?   Да - ^5○^7   Нет - ^3×	Card is not formatted.\nFormat it?   Yes - ^5○^7   No - ^3×
+Готово	Done
+Создаю данные. Подождите немного.	Creating data. Please wait.
+Создать остальные данные EVS?	Create the remaining EVS data?
+Готово. Повтор - кнопкой «Играть».	Done. Press Play to hear it again.
+Создаю пробные данные EVS…	Creating EVS sample data…
+Сохранение займёт время.\nПодождите немного.	Saving takes a while.\nPlease wait.
+Записать поверх этих данных?	Overwrite this data?
+Сохранить данные EVS?	Save the EVS data?
+Да	OK
+На этом диске нет данных EVS\nвыбранной девушки. Возврат к выбору.	This disc has no EVS data for\nthe selected girl. Returning to menu.
+Этот диск пока недоступен.\nНужно выполнить в игре ^5*особое условие*^7.	This disc can't be used yet.\nMeet a ^5*special condition*^7 first.
+Данные EVS можно сохранить на карту\nпамяти, где свободно 11 блоков,\nили на карту, где уже есть данные EVS.	EVS data can be saved to a memory card\nwith 11 or more free blocks,\nor to a card that already has EVS data.
+: чтение	 reading
+\n     Кнопка ввода: EVS Касуми/Хикари	\n     Confirm: create EVS of Kasumi/Hikari
+\n             Отмена: назад	\n             Cancel: back
+^3Проверка диска.\n^7Подождите, пожалуйста…	^3Checking disc.\n^7Please wait…
+\n      ^4○^7: EVS Касуми или Хикари	\n      ^4○^7: EVS of Kasumi or Hikari
+Для EVS не Касуми и не Хикари:\n	For EVS of other girls:\n
+\n              ^3×^7: отмена	\n              ^3×^7: cancel
+^3Диск не вставлен.^7	^3No disc inserted.^7
+^3Это не тот диск.	^3Wrong disc.
+^7Токимеки 2:^6\n	^7Tokimeki 2:^6\n
+^7 - вставьте, пожалуйста.	^7 - please insert it.
+Найден новый ^6【Доп. диск】^7.	New ^6【Extra Disc】^7 detected.
+^7или^6\n	^7or^6\n
+В этой мини-игре ^3мышь^7 не работает.\n	The ^3mouse^7 won't work in this game.\n
+Играйте ^3контроллером^7 в ^3порту 2^7\n	Use the ^3controller^7 in ^3port 2^7\n
+или замените ^3мышь^7 на ^3контроллер^7.	or swap ^3mouse^7 for ^3controller^7.
+Управление снова на ^3порту 1^7.\nВозьмите ^3	Control returns to ^3port 1^7.\nTake the ^3
+контроллер	controller
+^7 порта 1\nи нажмите любую кнопку.	^7 in port 1\nand press any button.
+Всё верно?	All good?
+День рождения и группа крови?	Birthday and blood type?
+Ввести чтение имени?	Enter name reading?
+Имя?	Name
+Твоя фамилия?	Last name?
+Д.р.м.д:　　. 　　  	Bday m/d　　/ 　　 
+Группа:　　　	Blood: 　　　
+Нет	No
+Имя:	Name
+госпожа Мэй	Lady Mei
+Мэй	Mei
+Идзюин	Ijuin
+менеджер	manager
+Каэдэко	Kaedeko
+Сакура	Sakura
+Каори	Kaori
+Яэ	Yae
+президент	prez
+Хомура	Homura
+Акаи	Akai
+Михопон	Mihopyon
+Михо	Miho
+Сираюки	Shirayuki
+Аканэчка	Akanechin
+Аканэ	Akane
+Итимондзи	Ichimonji
+Юкки	Yukki
+Миюки	Miyuki
+Котобуки	Kotobuki
+Котоко	Kotoko
+Минадзуки	Minazuki
+Хиномото	Hinomoto
+Такуми	Takumi
+Дзюн	Jun
+учитель Асо	Ms. Aso
+ты	you
+Выходной	Holiday
+Отдых: поездка	Trip break
+Отгул за фест.	Fest. break
+Отдых:тест	Test break
+Осен.равн.	Autumn Eq.
+Весен.равн	Spring Eq.
+День осн.	Found. Day
+Д.взросл.	Coming Age
+Д.р.импер.	Emperor B.
+День труда	Labor Day
+Д.культуры	Culture D.
+Д.спорта	Sport D.
+Д.пожилых	Elders Day
+Д.моря	Marine
+День детей	Child. Day
+Нац.празд.	Nat. Hol.
+Д.констит.	Const. Day
+Д.природы	Green Day
+Нет данных	No data
+Вступить в клуб	Join a club
+Выйти из клуба	Quit the club
+Атлет.	Track
+Волейбол	Volley.
+Театр	Drama
+Оркестр	Band
+Бейсб.	Baseb.
+Теннис	Tennis
+Наука	Sci.
+Комп.	Comp.
+Чайный	Tea
+Кэндо	Kendo
+Совет	Counc.
+ покинут	 quit
+Хикари Х.	Hikari H.
+Котоко М.	Kotoko M.
+Миюки К.	Miyuki K
+Аканэ И.	Akane I.
+Михо С.	Miho S.
+Хомура А.	Homura A.
+Каори Я.	Kaori Y.
+Каэдэ С.	Kaede S.
+Мэй И.	Mei I.
+Касуми А.	Kasumi A.
+Такуми С.	Takumi S.
+Дзюн Х.	Jun H.
+«Ни одного номера не знаю…	"I know no one's number…
+Новый триместр!	New term today!
+Зимние каникулы!	Winter break!
+Летние каникулы!	Summer break!
+Весенние каник.!	Spring break!
+Выздоровел!	I got well!
+Невроз прошел!	Stress cured!
+Травма зажила!	Injury healed!
+Ты заболел!	I got sick!
+Начался невроз!	Stressed out!
+Ты получил травму!	I got injured!
+Двойн.свид.Дзюн	Double date Jun
+: свидание	: date
+: д.р.	 B-day
+Тов.матч	Practice
+Тренировка	Club pract
+Приём	Enroll
+Начало	Start
+Рождество	Christmas
+День Валентина	Valentine's
+Белый день	White Day
+Фейерверк	Fireworks
+Выпуск	Grad.
+Экзамены	Finals
+Профориент	Career tlk
+Фест.	Fest.
+Подг.фест.	Fest. prep
+Спорт	Sports
+Поездка	Trip
+Итоги теста	Test results
+Весн.кан.	Spring br.
+Летн.кан.	Summer br.
+Зимн.кан.	Winter br.
+Второй тр.	2nd term
+Третий тр.	3rd term
+На сегодня	Today
+На неделю	This week
+Нац.турнир	Nationals
+      - нет -       	      - none -      
+Шкафчики	Lockers
+Театральный зал	Drama room
+Лаборатория	Laboratory
+Компьютерный класс	Computer room
+Музыкальный класс	Music room
+Комната совета	Council room
+Бейсбольное поле	Baseball field
+Тренажёрный зал	Training room
+Теннисный корт	Tennis court
+Спортзал	Gym
+Стадион	Field
+Додзё кэндо	Kendo dojo
+Лагерь	Camp
+Корт турнира	IH tennis
+Зал турнира	IH gym
+Вступит.экзамен	Exam hall
+Собеседование	Job interview
+ПТ	FR
+СБ	SA
+ВС	SU
+ПН	MO
+ВТ	TU
+СР	WE
+ЧТ	TH
+Каэдэ	Kaede
+Дева	Virgo
+Весы	Libra
+Скорпион	Scorpio
+Телец	Taurus
+Рак	Cancer
+Рыбы	Pisces
+Козерог	Capric.
+Стрелец	Sagitt.
+Море	Sea
+Горы	Mountains
+Цирк	Circus
+Крытый бассейн	Indoor pool
+Луна-парк	Amusement
+Зоопарк	Zoo
+Океанариум	Aquarium
+Кинотеатр	Cinema
+Боулинг	Bowling
+Игровой зал	Arcade
+Караоке	Karaoke
+Торговая улица	Shopping
+Башня	Tower
+Каток	Rink
+Концертный зал	Concert hall
+Храм	Shrine
+Музей искусств	Art museum
+Ботанический сад	Botanic gdn
+Центральный парк	Central Park
+Парк у реки	River Park
+Род. %s.%s	Born %s/%s
+%s, кр.%s	%s, %s
+Рост: %s см	Height: %s cm
+У школы Хибикино	Hibikino High
+У дома Касуми	Kasumi's house
+У дома Хикари	Hikari's house
+Начальная школа	Primary school
+Мост Идзюин	Ijuin Bridge
+Проспект	Avenue
+У станции	Station
+Переезд	Crossing
+Берег реки	Riverbank
+У дома	Home
+У лавки сладостей	Candy shop
+Храм Хибикино	Town shrine
+Маленький парк	Small park
+Парк у библиотеки	Library park
+Горная тропа	Mtn. path
+Класс	Class
+Дорога	Road
+У маленького парка	Small park gate
+Праздник сакуры	Cherry festival
+Детская библиотека	Kids' library
+Вход в луна-парк	Amusement park
+Большая река…\n Интересно, тут много рыбы?\n А глубоко тут?	Big river…\n Are there lots of fish?\n Is it deep?
+Большая река…\n Главное - не свалиться.	Big river…\n Better not fall in.
+Хочу шоколадку «Супервоин-Дракон»…)	Want a Super Warrior Dragon choco…)
+Может, съесть «Супервоина-Дракона»…)	Maybe I'll eat a Dragon Choco…)
+Может, вытянуть предсказание…)	Maybe I'll draw a fortune…)
+Вытяну-ка предсказание!	I'll draw a fortune!
+Какая всё-таки маленькая библиотека…)	Such a tiny library as always…)
+Может, почитать сегодня книжку?	Maybe I'll read a book today.
+Прошло 7 лет	7 years later
+Вот я и вернулся.	So I'm back.
+О, школа Хибикино!	Oh, Hibikino High!
+И…	…
+Проверка слота	Checking slot
+Смена слота	Switch slot
+Обновление системного файла	Updating the system file
+Удаление данных	Deleting data
+Копирование данных	Copying data
+Сохранить текущую игру	Save the current game
+Загрузить сохранённую игру	Load a saved game
+Начать игру сначала	Start a new game
+Выберите пункт меню	Select a menu item
+Обновление данных сохранения	Updating save file info
+Выберите, что удалить	Select data to delete
+Откуда копировать?	Copy from where?
+Куда сохранить?	Save where?
+Что загрузить?	Load which?
+Куда копировать?	Copy to where?
+Эти данные будут удалены	The data will be erased
+Создать новый файл сохранения	Create a new save file
+Эти данные будут загружены	This data will be loaded
+Обновить?	Update?
+Удалить?	Delete?
+Копировать?	Copy?
+Сохранить?	Save?
+Загрузить?	Load?
+Начать	Start
+сначала?	anew?
+: запись	: data
+Запись １３	File 13
+Запись １２	File 12
+Запись １１	File 11
+Запись １０	File 10
+Запись ９	File 9
+Запись ８	File 8
+Запись ７	File 7
+Запись ６	File 6
+Запись ５	File 5
+Запись ４	File 4
+Запись ３	File 3
+Запись ２	File 2
+Запись １	File 1
+Текущая игра	Current game
+Каэдэ-менеджер	Kaede-manager
+Работа Аканэ	Akane's job
+    Нет данных	     No data
+Продолжить игру?	Continue game?
+Да - кнопка выбора, нет - кнопка отмены	Yes - Confirm, No - Cancel button
+  Да - кнопка выбора, нет - кнопка отмены	  Yes - Confirm, No - Cancel button
+Без карты памяти сохранить игру нельзя. Продолжить?	Without a memory card you can't save. OK?
+Карта не отформатирована. Отформатировать?	Card is not formatted. Format it?
+Карта памяти не найдена.	Memory card not found.
+Форматирование отменено	Formatting canceled
+Карта памяти уже отформатирована.	Memory card already formatted.
+На карте нет данных альбома.	No album data on this card.
+Обновление отменено.	Update canceled.
+Сохраняю данные прохождения…	Saving clear data…
+Данные повреждены.	Data is corrupted.
+Эти данные не загрузить.	Can't load this data.
+Форматирование…	Formatting…
+Не отформатирована	Not formatted
+Конец игры	Quit game
+Да…	Yes…
+Недостаточно свободных блоков	Not enough free blocks to save
+Системный файл обновлён	System file updated
+Обновляю системный файл…	Updating system file…
+Скопировано	Copied
+Удалено	Deleted
+Загружено	Loaded
+Сохранено	Saved
+Без карты памяти сохранить игру нельзя.	Without a memory card you can't save.
+Продолжить?  Да…	Continue? Yes…
+Карта памяти не найдена	Memory card not found
+Системный файл создан	System file created
+Форматирование завершено	Formatting complete
+Ошибка форматирования	Formatting failed
+Копирую…	Copying…
+Удаляю…	Deleting
+Карта не отформатирована.	Card is not formatted.
+Отформатировать?  Да…	Format it?  Yes…
+Создаю системный файл…	Creating system file…
+Ошибка доступа	Access failed
+Загружаю…	Loading…
+Сохраняю…	Saving…
+Проверяю слот １	Checking slot 1
+Проверяю слот ２	Checking slot 2
+Майка К.	Maika K.
+Сумирэ Н.	Sumire N.
+Махо С.	Maho S.
+Выберите слот	Select a slot
+Слот １	Slot 1
+Слот ２	Slot 2
+Карты памяти нет,	No memory card,
+сохранение невозможно	saving is impossible
+Копирую данные в новый файл	Copying data to a new file
+Не вынимайте карту памяти	Don't remove memory card
+Пусто	Empty
+Нет данных EVS.	No EVS data.
+Загружаю	Loading
+Подождите немного	Please wait…
+Загрузить эти данные?	Load this data?
+Загрузить данные EVS?	Load EVS data?
+Чтение фам.	Surname rd.
+Чтение имени	Name reading
+Для сохранения нужно ２ свободных блока	Saving clear data needs 2 free blocks
+или карта с системным файлом.	or a card with a system file.
+Чтобы сохранить, вставьте карту	To save, insert a memory card
+в слот １.	in slot 1.
+Альбом	Album
+Сохранить альбом?	Save the album?
+Сохранить прохождение?	Save the clear data?
+Создать данные EVS?	Create EVS data?
+【Доп. диск】	【Extra Disc】
+Вибрация	Vibrate
+Звук	Sound
+Стерео	Stereo
+Фон системы	Background
+Контроллер	Controller
+Мышь	Mouse
+Окно	Window
+Скор.команд	Cmd speed
+Скор.текста	Text speed
+Скор.курсора	Cursor speed
+Вид курсора	Cursor type
+Иконки	Icons
+２х	2x
+Медл	Slow
+Норм	Norm
+Живо	Fast
+Миг	Inst
+Тип С	Type C
+Тип В	Type B
+Тип А	Type A
+Создать	Create
+Вкл.	On
+Выкл.	Off
+Заново	Redo
+Есть	Yes
+Моно	Mono
+Как мышь	As mouse
+  Обычно	  Normal
+Левша	Left
+Правш	Right
+Прозр	Trans
+Плотн	Solid
+нужно создать данные	data must be created
+Для работы EVS	To use EVS,
+Текущая игра/	Current game/
+Нет…	No…
+Внимание	Caution
+Эти данные будут потеряны	This data will be lost
+Проверка карты памяти\nНе вынимайте карту памяти\nи контроллер	Checking memory card\nDon't remove the card\nor the controller
+Системный файл не загружен	System file not loaded
+: системный файл\nзагружен с карты	: system file\nloaded from card
+Клуб:	Club:
+【Доп. диск %s】	【Ext. Disc %s】
+【Диск %s】	【Disc %s】
+НАЧАТЬ ИГРУ	NEW GAME
+БОНУС	BONUS
+НАСТРОЙКИ	OPTIONS
+Форма	Cond
+Гуман	Human
+Худож	Arts
+Эруд.	Triv.
+Облик	Looks
+Воля	Guts
+Стресс	Stress

@@ -1,0 +1,12 @@
+*.bin
+*.BIN
+*.cue
+*.CUE
+*.iso
+*.sav
+*.mcd
+__pycache__/
+*.pyc
+tm2_in/
+tm2_cd*/
+out/

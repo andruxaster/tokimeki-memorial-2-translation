@@ -1,0 +1,837 @@
+0	Myumyu-pyon
+1	Myumyu-kun
+2	Winter will come,
+3	Downcast, I endure
+4	Hopeless love I drag: a cruel fate
+5	Heard a rumor of you
+6	Dropped in an old shop
+7	To dream of you
+8	Same as it was back then
+9	Sleeps in me
+10	Yearbook tonight
+11	Though you won't even notice
+12	City-grown flowers
+13	I'll keep on watching you
+14	I, sunflower; you, sun
+15	Dazzles my tears
+16	At dusk, a red light sinking
+17	Alone, back to the world
+18	Feeling love's frailty
+19	Milady
+20	Mei
+21	Ijuin
+22	Manager
+23	Kaori
+24	Homura
+25	Mihopyon
+26	Akachi
+27	Akane
+28	Yukkie
+29	Kotoko
+30	Hikari
+31	Ms. Aso
+32	Kasumi
+33	-san
+34	-chan
+35	Slipped!|
+36	This year,
+37	they're hotheads
+38	Their plan looks
+39	well-balanced
+40	Their
+41	defense looks solid
+42	They plan to
+43	turtle up tight
+44	They're aiming to
+45	hit the center
+46	Looks like they want
+47	to go around us
+48	What a
+49	manly offense!
+50	Their
+51	attack's on left
+52	Strikers massed
+53	at center
+54	Strikers massed
+55	on right
+56	Defense is
+57	leaning left
+58	Center is
+59	heavily defended
+60	Defense is focused
+61	on the right, huh
+62	Nothing
+63	lopsided here
+64	Offense and
+65	defense centered
+66	Takumi scouted the enemy.
+67	Junichiro also scouted the foe.
+68	Yes
+69	No
+70	Use a ready-made strategy pattern?
+71	Which pattern to use?
+72	Select a unit to configure.
+73	Set the unit's position.
+74	Set the unit's orders.
+75	×: Strategy patterns
+76	×: Cancel
+77	Breaker
+78	Flanker
+79	Zone
+80	Hydra
+81	Lefty Sword
+82	Righty Sword
+83	Ambidextrous
+84	Helmet
+85	Armor
+86	Shield
+87	Wings
+88	L. Straight
+89	R. Hook
+90	Air Force
+91	Homing Missile
+92	Levee
+93	Arrow
+94	Surge
+95	Slide
+96	Defense
+97	Guerilla
+98	Great Wall
+99	Mecha Riot
+100	Champion
+101	All attacks use Flankers; defense is held
+102	by Zone units. While we absorb their attack
+103	deep, we strike their pole from the side.
+104	As in "Crane," the attack team is Flankers,
+105	but Interceptors join the defense to stop
+106	center pushes early.
+107	Modeled on a flock of flying geese. Many
+108	Breakers and Chargers launch a mass attack
+109	on all enemy defenders.
+110	While many Breakers pick off enemy defenders
+111	one by one, Flankers slip through the thinned
+112	defense and attack the enemy pole.
+113	Like hornets guarding their nest, it swarms
+114	enemy attackers that approach the pole.
+115	Flankers on both sides hit hard from the
+116	flanks. Versus "Crane" and "Hawk," it puts
+117	power and speed first.
+118	A crown-shaped formation. It uses as many
+119	Holders as possible and walls off the pole:
+120	a defense plan.
+121	Like a left-handed swordsman: attacks from
+122	the left, guards right. It and "Righty Sword"
+123	form a matched pair.
+124	Like a right-handed swordsman: attacks from
+125	the right, guards left. It and "Lefty Sword"
+126	Like a two-handed swordsman: attack units are
+127	spread evenly left and right. Strong attack,
+128	less defense.
+129	Zone units ring the pole twice, making a
+130	sturdy setup.
+131	Max Holders, plus Walls and Zone units around
+132	the pole: a formation with very high
+133	defense.
+134	Walls and Zone units stand before the pole.
+135	Effective against frontal attacks,
+136	but weak against the flanks.
+137	Breakers on both sides gouge the enemy line,
+138	while center Chargers attack the pole. More
+139	offensive than other "Steel" formations.
+140	Chargers on the left drive a sharp, straight
+141	attack into the enemy's center, just like
+142	a boxer's jab.
+143	Flankers on the right deliver a sharp flank
+144	attack on the enemy's side, like a boxer's
+145	right hook.
+146	Flankers fly in formation like fighter jets.
+147	After scattering, they hit the pole from
+148	both sides.
+149	Attackers are all Breakers; defenders, all
+150	Interceptors. Like homing missiles, they
+151	chase every enemy.
+152	Defense in front, attack behind. Enemy attacks
+153	are crushed early, then we storm.
+154	But if breached, it's in danger.
+155	An arrow-shaped formation that pierces the
+156	center. Strong push, but if the enemy shuts
+157	the center, it's a slog.
+158	Breakers hit the defense, then Chargers
+159	rush in. A truly overwhelming setup.
+160	But with no defenders, defense is low.
+161	Like "Surge," it attacks in two waves, but
+162	the 2nd wave is Flankers.
+163	Again, no defenders means low defense.
+164	Chargers and Zone units are set across the
+165	field. A big plus: they can stop enemy
+166	Flankers head-on.
+167	A formation made entirely of defensive units.
+168	After holding off the enemy with everything,
+169	storm their bare pole.
+170	Zone units stand inside the ring of Walls
+171	around the pole, ambushing attackers who
+172	slip through the gaps.
+173	Walls are lined up in a row before the pole.
+174	Climbing this wall will be very tough (?).
+175	This formation includes every kind of unit.
+176	Attack and defense are well balanced.
+177	Apart from 2 Holders, every unit is a
+178	Breaker.
+179	It should live up to its name.
+180	One Charger attacks; everyone else guards
+181	the pole. A strong unit could live up to
+182	your expectations (?).
+183	Shaped like the hiragana "o" (お). All units
+184	except Holders are Chargers.
+185	"O" stands for "otoko," a real man.
+186	What would you like to know?
+187	About parameters
+188	About orders
+189	Which parameter?
+190	Speed
+191	Tough
+192	Which order?
+193	Holder
+194	increases.
+195	The higher the Speed, the faster a unit runs.
+196	And with more speed, the damage it deals in
+197	a collision is bigger, too.
+198	With high Toughness, a unit is less likely
+199	to be knocked out, and takes less damage
+200	when hit.
+201	A unit given the Breaker order attacks the
+202	defenders in enemy camp.
+203	A unit given the Charge order runs straight
+204	for the enemy's pole.
+205	A unit given the Flank order circles wide
+206	around the field, dodging attacks, and runs
+207	to enemy's pole.
+208	A unit given the Intercept order waits at
+209	home to stop raiders.
+210	A unit given the Zone order attacks enemy
+211	units near the spot where it stood when the
+212	battle began.
+213	A unit given the Wall order becomes a literal
+214	pole wall and won't move.
+215	Wall units have higher defense than units
+216	with other orders.
+217	A unit given the Holder order holds the
+218	pole upright.
+219	The more Holders there are, the higher the
+220	pole's durability (HP), and the harder it is
+221	to topple. Max Holders: 5.
+222	To set it, place the unit on the off-color
+223	squares by the pole.
+224	 Round. Proceed?
+225	Rematch?
+226	Your title:
+227	.
+228	Time
+229	Password
+230	"None at the North Pole…"
+231	"Face west, tail east"
+232	"Fell 5 floors, unhurt, on 4 legs
+233	"Love - and from Easter Island"
+234	"Rowdy sea dancer"
+235	"Lone Wolf"
+236	"Sleep now, good boy"
+237	Play again?
+238	Mei Ijuin
+239	Design
+240	Program
+241	No album data found.
+242	Free Talk
+243	Mini-Games
+244	Endings
+245	Maika
+246	Sumire
+247	Kaori
+248	Homura
+249	Miyuki
+250	Kotoko
+251	Space Ring Fighter
+252	K.Nojima
+253	Y.Masuda
+254	M.Yamada
+255	E.Motoi
+256	Y.Tamura
+257	C.Maeda
+258	K.Murai
+259	M.Kumai
+260	H.Tachi
+261	M.Nomura
+262	N.Takano
+263	M.Kosuge
+264	J.Noda
+265	M.Torii
+266	Save the album title?
+267	Save the mini-game data?
+268	=
+269	Overwrite? Yes/No
+270	PocketStation was|swapped out.|Re-insert the original one|and press ○.
+271	Initialization failed.
+272	Initialization done.
+273	Save failed.
+274	Save complete.
+275	Insert a PocketStation|into slot 2.
+276	Insert a PocketStation|into slot 1.
+277	Saving.|Do not remove the|PocketStation.
+278	Initializing.|Do not remove the|PocketStation.
+279	This PocketStation|is not initialized.|Initialize? Yes/No
+280	Access failed.
+281	This PocketStation is damaged.|Insert a different|PocketStation.
+282	Not enough free space.|(15 blocks needed)
+283	No PocketStation|inserted.
+284	Checking slot 2.|Do not remove the|PocketStation.
+285	Checking slot 1.|Do not remove the|PocketStation.
+286	Select a slot.
+287	Junichiro
+288	Takumi
+289	Maho
+290	Kaedeko
+291	Miho
+292	Akane
+293	Hikari
+294	Kasumi
+295	Yes/No
+296	Create EVS data|for this char?
+297	Alarm 2
+298	Alarm 1
+299	Clock
+300	Set time
+301	Voice
+302	Thank you
+303	Night!
+304	Welcome back
+305	Don't give up!
+306	Good luck
+307	Together always!
+308	Good night
+309	Morning
+310	Go for it!
+311	Fight!
+312	Oh, morning.
+313	Get it together!
+314	Doing what, dummy?
+315	Nite-nite!
+316	Yoo-hoo!
+317	Hanyaa!
+318	Let's play! Let's play! Let's play!
+319	Welcome!
+320	Go for it!
+321	Mornin'!
+322	Heyyy
+323	Good morning.
+324	Please try hard!
+325	Good morniiing!
+326	Oh, hello.
+327	See ya!
+328	Yo!
+329	Prez Kiiick!
+330	Nyahahahaha!
+331	Morning!
+332	Oh, morning…
+333	…good luck
+334	…I'm sorry
+335	Thank you…
+336	I'll try hard!
+337	We'll meet again?
+338	Sleep well, I say.
+339	Hm, good work.
+340	Well done, you!
+341	Do your best!
+342	Hey, boy! Doing well?
+343	Get it together!
+344	Yeah, night.
+345	Hey, morning.
+346	Youth!
+347	See ya.
+348	Hey, lookin' good.
+349	-kun
+350	Nick
+351	Fest: Sci Club
+352	Hikari Rm
+353	Court
+354	Room
+355	Cave
+356	Tea Room
+357	Fest Prep
+358	Slope
+359	Dragon Choco Map
+360	Takumi Love?
+361	Test Score
+362	Hero's Room
+363	Princ.: Grad
+364	SeaStn
+365	Rooftop
+366	Brave Art
+367	Entrance
+368	Options BG
+369	For Credits
+370	Prologue 3
+371	Prologue 2
+372	Champion Interview
+373	StuCo Award
+374	Tea Award
+375	Band Award
+376	Comp. Award
+377	Command Menu
+378	Godriller
+379	Armageddon
+380	Private Ryan
+381	Titanic
+382	Lethal Weapon
+383	Grad
+384	Start
+385	Meet 0
+386	Ijuin Bridge
+387	Tower
+388	Fest: In Cafe
+389	Fest: Cafe Door
+390	Council
+391	All Clear
+392	Princ.: Entry
+393	Child Photo
+394	Name Entry
+395	Class List Board
+396	Bad Ending
+397	Trio Bad Ending
+398	Sumire
+399	Bath
+400	Jun Bath
+401	Lesson
+402	Scary Surprise Princess
+403	Cafe Waitress
+404	Cake-Selling Santa
+405	Sumire Date 1
+406	At the Circus
+407	Meet
+408	Beach Queen
+409	Mei's Story
+410	Wreath
+411	It's Mei
+412	You're my servant alone
+413	Costumes
+414	Koshien
+415	VS Daimon
+416	Lavender Garden
+417	Memory Postcard
+418	So Embarrassed
+419	Maple Leaves
+420	First Meet
+421	Beach Volleyball
+422	Late Cherry Bloom
+423	Sprained Skiing
+424	With Fish
+425	Canned Oranges
+426	Kaori and Cat
+427	Like Starlight
+428	Whim Turns Real
+429	Waitress
+430	Lunker
+431	Flurry of Blows!
+432	Yakuza Kick
+433	Yam Season
+434	Kids' Game Corner
+435	River Flower
+436	Santa Claus
+437	Teleport
+438	Fortune
+439	Love Wins
+440	Helping Work
+441	New Year Feast
+442	Floral Cafe Day
+443	Ferris Wheel Mishap 2
+444	Stranded
+445	A Little Nervous
+446	Dripping…
+447	Lap Pillow
+448	Snowman
+449	Composed
+450	Plotting
+451	Kotatsu Winter!
+452	Peace
+453	Furious!
+454	Heady Eternal Scent
+455	Snack: Curry
+456	Birthday Gift
+457	Astray
+458	Tandem
+459	Summer Sea Sun
+460	Lunch Time!
+461	Buy Back
+462	What Am I Doing?
+463	Kyaa, so cute!
+464	Christmas for Two
+465	Career 2
+466	Career
+467	Trainee
+468	Surprise Princess
+469	Hospital
+470	Hosp. Door
+471	In the Car
+472	Exam Site
+473	Trip: Hotel
+474	Trip: Kushiro
+475	Trip: Otaru
+476	Trip: Namdaemun
+477	Trip: Kinkakuji
+478	Trip: Marina
+479	Trip: Kinjo
+480	Field Trip
+481	Trip: Meetup
+482	Inter-High Win
+483	Awards
+484	Camp: Fountain
+485	Spooky
+486	Camp: Cafeteria
+487	Camp: Lobby
+488	Bath Wall
+489	Camp Site
+490	Green Rm
+491	Gym Entrance
+492	Tennis Court
+493	Koshien Gate
+494	All Alone
+495	Overpass
+496	Fast Food
+497	Diner
+498	Cafe
+499	Foyer
+500	Kaedeko's
+501	Kaori's
+502	Miho's
+503	Homura's
+504	Kotoko's
+505	Hikari's
+506	Akane's
+507	Gift Exchange
+508	Ijuin Hall
+509	Giant Tree
+510	Gate Check
+511	Hallway
+512	Mei's Room
+513	Ijuin Front
+514	Bus Stop
+515	Stn Square
+516	Ijuin Manor
+517	Hibikino Stn
+518	Inside
+519	Shack
+520	Beach
+521	Swim
+522	Local Stn
+523	Ski Slope
+524	Foliage
+525	Fishing
+526	Indoor Pool
+527	Pool Entry
+528	Soccer Game
+529	Baseball
+530	Stadium
+531	Billiards
+532	Bowling
+533	Bowling Alley
+534	Game Corner
+535	Arcade Front
+536	Penguin Show
+537	Big Tank
+538	Aquarium
+539	Skating Rink
+540	Rink Entrance
+541	Sky Restaurant
+542	Lookout
+543	Tower Gate
+544	Phantom Opera
+545	Oasis Pop
+546	Concert Hall
+547	Blossoms
+548	Fountain
+549	Avenue
+550	Central Park
+551	Wings
+552	Open Lot
+553	Circus Show
+554	Tent Entry
+555	Night Parade
+556	Fortune Hut
+557	Merry-Go-Round
+558	Virtual Hazard
+559	Thrill Ride
+560	Roller Coaster
+561	Big Wheel
+562	Plaza
+563	Theme Park
+564	Zoo
+565	Zoo Entrance
+566	Karaoke Box
+567	Karaoke Front
+568	Movie Theater
+569	Junk Shop
+570	Fancy Goods
+571	Boutique
+572	Christmas Sale
+573	Shop Arcade
+574	Tea Stand
+575	Offering
+576	Fair Stall
+577	Charm Shop
+578	Shrine
+579	Shrine Gate
+580	Greenhouse
+581	Botanic Gdn
+582	Glass Expo
+583	Statues
+584	Art Show
+585	Art Museum
+586	Firework
+587	River Park
+588	River Park Gt
+589	Kendo Club
+590	Walkway
+591	New Class
+592	Behind Gym
+593	Gym
+594	Kiosk
+595	Office
+596	School
+597	Tea Garden
+598	Water Tap
+599	Tower Yard
+600	Lockers
+601	Hall
+602	Gate
+603	Sports
+604	Sports: Gate
+605	Fest: Night
+606	Fest: Prep Room
+607	Fest: Tarot
+608	Fest: Cafe
+609	Fest: Gift Shop
+610	Festival
+611	Fest: Gate
+612	Council Work
+613	Tea Club
+614	Brass Band
+615	Art Club
+616	PC Club
+617	Science Club
+618	Drama Club
+619	Training Room
+620	Track Club
+621	Volleyball
+622	Tennis Club
+623	Pool
+624	Baseball
+625	Sports Field
+626	Roof
+627	Library
+628	Mei Sneaks
+629	Robo No.29
+630	Super Dragon
+631	Planting
+632	Shrine Wish
+633	First Errand
+634	Pretend
+635	Halfsies
+636	You're the Dummy!
+637	Glass Charms
+638	Oh, Fine Then
+639	Officer Kasumi
+640	Park Plaza
+641	On Merry-Go-Round
+642	Ferris
+643	Park Gate
+644	Shops
+645	Kids Library
+646	Candy Shop
+647	Shrine
+648	River
+649	Trinkets
+650	Entry
+651	Sand
+652	Home
+653	Trail
+654	Normal
+655	Return
+656	Class
+657	Secret Posting!
+658	Goodbye For Now
+659	Last Class?
+660	My Beau?!
+661	What Am I Doing…
+662	Kyaa, Cute!
+663	You OK?!
+664	Our Holy Night
+665	Look Ahead!
+666	Not a Morning…
+667	Career…
+668	Hibikino Myth
+669	8 Years Later
+670	Let's Skip!
+671	Future Dream
+672	You OK?
+673	Farewell…
+674	Memory Photo…
+675	Do You Remember?
+676	Say Ah
+677	Summer Uniform
+678	Our Birthday
+679	Hold My Hand!
+680	Cycling!
+681	Summer Sea Sun!
+682	Snow Night
+683	Safe With You
+684	Peeping?
+685	Treasure
+686	Did You Forget?
+687	Dummyyy!
+688	Jealous!
+689	Hold Hands!
+690	Glass Ring
+691	Love, Pals…
+692	Snowman…
+693	Tea Room Eve
+694	True Power
+695	Too Cold!
+696	No Curry!
+697	Kotatsu!
+698	My Fault…
+699	Crit Hit
+700	Make Up For Now
+701	You ARE a Dummy!
+702	Are You Dumb?
+703	Judging
+704	Ageless Scent…
+705	Prep Going OK?
+706	Snowed In?!
+707	Gift from Above
+708	Halfsies!
+709	It's a Secret!
+710	Close by Tree!
+711	Morning Scene 2
+712	Morning
+713	A Bit Nervous
+714	Alien Contact!
+715	Dripping Duo!
+716	The Usual
+717	Lap Pillow…
+718	Half for Each!
+719	Candyapple
+720	Love Wins!
+721	Working Hard!!
+722	Forget Reality…
+723	Big Bro, Dummy!
+724	Blunt Question
+725	Packed!!
+726	Good Wife?!
+727	Secret, Secret
+728	Play House
+729	I'm Miho/I'm Maho
+730	Pray to God
+731	Fairy Prank
+732	Lots of Froggies
+733	That Day Again
+734	Teleport?
+735	Eve w/ Prince
+736	S-So Shy!
+737	Good-Luck Date?
+738	Bad Omen!!
+739	Let Me Divine
+740	Tarot
+741	Fated Meeting?
+742	Calm Fortunes
+743	Secret of Three
+744	I Want My Prince
+745	Penguins!
+746	Don't Ask That!
+747	Prez Kick!!
+748	Principal!
+749	Snacking
+750	D-Don't Look!
+751	Drill!
+752	My Best Pal
+753	Homura's Here!
+754	Don't Say Cute!
+755	Patrol!
+756	With Robo
+757	Dragon Kiiick!
+758	Sudden Bye?!
+759	Join In!
+760	Unblooming Me
+761	Stubborn Me
+762	With Fish…
+763	Two, One Court
+764	Together Again
+765	I'm Sorry…
+766	Behind Gym…
+767	Canned Fruit
+768	Stray Cat
+769	Like Starlight…
+770	All Alone
+771	Welcome In!
+772	Merry Christmas…
+773	Missing You…
+774	Koshien Fin.
+775	Enter Daimon!
+776	Long Call
+777	Goodbye!
+778	Paired Gloves
+779	Klutzed Again
+780	So Embarrassed!
+781	Maple Carpet
+782	Fated Crash?!
+783	Hello There!
+784	A School Trip!
+785	Make It Come True
+786	Let's Talk Lots!
+787	No Onions!
+788	What's Wrong?
+789	Promise of Old…
+790	Bodyguard
+791	Wreath…
+792	It'll Tear!
+793	Secret Balcony
+794	Feast…
+795	Feast!
+796	Walk Home!
+797	Don't Get Ideas!
+798	Plebe Snack
+799	Enough!
+800	Incog.
+801	Event Reg. Error
+802	Sexy?
+803	True Choco!
+804	Eve for Two
+805	Star Psychic?
+806	Song for You
+807	Chasing Dream
+808	Favorite Swing
+809	Are You OK?
+810	Maika Deliv.
+811	Brings Luck!
+812	Pizza's Here!
+813	No Diving!
+814	Welcomeee!
+815	No Booze!
+816	Sexy Beach Girl
+817	Smile: Free
+818	Pleeease!
+819	Mini Santa
+820	Ahahaha…
+821	Buy a Chick?
+822	Spring Dive!
+823	=
+824	=
+825	=
+826	=
+827	=
+828	=
+829	=
+830	=
+831	=
+832	=
+833	=
+834	=
+835	=
+836	=
